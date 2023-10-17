@@ -4,7 +4,9 @@ import about from "../assets/img/임시프로필.jpg";
 
 const introText = {
   title: "port developer",
-  desc: ["talenr is", "found at the end of the", "effort"]
+  desc: [" 구하라! 주실 것이요",
+        "찾으라! 찾을 것이요",
+        "두드리라! 열릴 것이니라"]
 }
 
 const Intro = () => {
